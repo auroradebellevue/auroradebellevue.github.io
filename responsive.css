@@ -3,18 +3,18 @@
   /* background image: */
     --main-bg: url("prettyBackground.png");
   /* background color to show while loading + just in case: */
-    --bg-2: #35619e;
+    --bg-2: #7B5C98;
   /* main body text: */
     --text-color: #ffffff;
-    --main-font: 'Nunito', sans-serif;
+    --main-font: 'Arial', sans-serif;
   /* accent text: */
-    --fancy-font: 'Sofia', cursive;
+    --fancy-font: 'Arial', sans-serif;
   /* links: */
-    --link-color: #ffffff;
-    --hover: #fd8579;
+    --link-color: #CED3DC;
+    --hover: #690160;
   /* navbar links: */
-    --highlight: #ffffff; /* active bg color */
-    --active: #10192b /* active text color */
+    --highlight: #690160 ; /* active bg color */
+    --active: #CED3DC/* active text color */
 }
 
 html {
